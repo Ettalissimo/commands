@@ -31,4 +31,6 @@ follow this documentation (ubuntu)
 https://docs.qgroundcontrol.com/master/en/qgc-user-guide/getting_started/download_and_install.html
 
 
+### to move from a terminal to an other one 
 
+ctrl + B + (click right after on the right arrow key )
