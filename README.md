@@ -30,6 +30,8 @@ follow this documentation (ubuntu)
 
 https://docs.qgroundcontrol.com/master/en/qgc-user-guide/getting_started/download_and_install.html
 
+however we used the old version its no longer on the website (the new version seems to have some pbs)
+
 
 ### to move from a terminal to an other one 
 
