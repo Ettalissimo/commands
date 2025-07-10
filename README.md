@@ -26,12 +26,9 @@ docker build -t px4-ros2-gazebo-yolov8-env -f Dockerfile.env .
 
 ### Q Ground Controller
 
-sudo usermod -a -G dialout $USER
+follow this documentation (ubuntu)
 
-sudo apt-get remove modemmanager -y
+https://docs.qgroundcontrol.com/master/en/qgc-user-guide/getting_started/download_and_install.html
 
-sudo apt install gstreamer1.0-plugins-bad gstreamer1.0-libav gstreamer1.0-gl -y
 
-sudo apt install libfuse2 -y
 
-sudo apt install libxcb-xinerama0 libxkbcommon-x11-0 libxcb-cursor-dev -y
