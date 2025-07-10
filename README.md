@@ -10,6 +10,8 @@ tail /etc/sudoers
 
 ### create virtual py env 
 
+go to the root project folder and execute the following commands
+
 python3 -m venv nom_env
 
 source venv/bin/activate 
