@@ -53,6 +53,14 @@ OR follow this documentation (ubuntu)
 https://docs.qgroundcontrol.com/master/en/qgc-user-guide/getting_started/download_and_install.html
 
 
+however we used the old version its no longer on the website (the new version seems to have some pbs)
+
+
+### to move from a terminal to an other one 
+
+ctrl + B + (click right after on the right arrow key )
+
+
 
 _____________________________________________________________________________________________________
 
@@ -60,10 +68,3 @@ ________________________________________________________________________________
 
 in this folder i have the project for simulating a drone and some objects when the drone flies it can takes some pictures. 
 i want now to get the logs of this simulation i want to get the positions(x,y,z coordinates) of the drone each time and when it taes the pictures i also what to know which reference frame does each object and drone follow 
-
-however we used the old version its no longer on the website (the new version seems to have some pbs)
-
-
-### to move from a terminal to an other one 
-
-ctrl + B + (click right after on the right arrow key )
