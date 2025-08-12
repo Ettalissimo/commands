@@ -68,3 +68,8 @@ ________________________________________________________________________________
 
 in this folder i have the project for simulating a drone and some objects when the drone flies it can takes some pictures. 
 i want now to get the logs of this simulation i want to get the positions(x,y,z coordinates) of the drone each time and when it taes the pictures i also what to know which reference frame does each object and drone follow 
+
+
+
+export GZ_PARTITION=local
+export GZ_IP=127.0.0.1
